@@ -1,0 +1,20 @@
+# Dependencies
+/node_modules
+/jspm_packages
+
+# Build artifacts
+/dist
+/build
+/temp
+
+# Logs and debug files
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Sensitive/Local configuration
+.env
+*.local
